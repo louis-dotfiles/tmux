@@ -1,6 +1,6 @@
 # Tmux configuration README
 
-This is my configuration for the [Tmux]() terminal multiplexer.
+This is my configuration for the [Tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer.
 
 
 ## Installation
