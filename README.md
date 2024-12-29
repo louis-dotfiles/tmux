@@ -14,3 +14,5 @@ Also install the [Tmux plugin manager aka TPM](https://github.com/tmux-plugins/t
 git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```
 
+And in Tmux use `prefix + I` to install the plugins.
+
